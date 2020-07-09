@@ -1,0 +1,16 @@
+{
+  "name": "neumorphism-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss-neumorphism": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "tailwind:build": "npx tailwindcss build css/tailwind.css -o css/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin",
+  "license": "MIT"
+}
